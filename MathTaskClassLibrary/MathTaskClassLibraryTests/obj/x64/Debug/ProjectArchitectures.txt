@@ -1,0 +1,2 @@
+C:\33\MathTaskClassLibrary\MathTaskClassLibrary\MathTaskClassLibrary.csproj;neutral
+C:\33\MathTaskClassLibrary\MathTaskClassLibraryTests\MathTaskClassLibraryTests.csproj;x64
